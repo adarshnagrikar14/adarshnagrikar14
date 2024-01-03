@@ -1,2 +1,2 @@
 ## 👋
-![Header](./readme_contents/github-header-image.png)
+<img src="readme_contents/github-header-image" width="100%"/>
