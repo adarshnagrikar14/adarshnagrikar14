@@ -1,2 +1,2 @@
 ## 👋
-<img src="readme_contents/github-header-image" width="100%"/>
+<img src="readme-contents/github-header-image" width="100%"/>
