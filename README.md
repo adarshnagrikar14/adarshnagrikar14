@@ -16,7 +16,7 @@
   
 - <code><a href = "/">![Android](https://img.shields.io/badge/-Android-000?&logo=Android)</a></code>
   <code><a href = "/">![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)</a></code>
-  <code><a href = "/">![ReactJS](https://img.shields.io/badge/-React%20JS-000?&logo=React%20JS)</a></code>
+  <code><a href = "/">![ReactJS](https://img.shields.io/badge/-React%20JS-000?&logo=React)</a></code>
   <code><a href = "/">![Django](https://img.shields.io/badge/-Django-000?&logo=Django)</a></code>
   <code><a href = "/">![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)</a></code>
 
