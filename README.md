@@ -41,7 +41,7 @@
 </div>
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnagrikar14&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=1" width="30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnagrikar14&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=1" width="30%" height="20px">
 
 ## Github Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshnagrikar14&theme=dracula&count_private=true)
