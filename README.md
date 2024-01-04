@@ -4,8 +4,8 @@
 
 ## Languages, Frameworks & Technologies
 
-<code><a href = "https://kotlinlang.org/">![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)</a></code>\\
-<code><a href = "https://kotlinlang.org/">![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</a></code> <br>
+<code><a href = "https://kotlinlang.org/">![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)</a></code>\
+<code><a href = "https://kotlinlang.org/">![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</a></code>
 
 ## Hackathons
 <a href="https://github.com/adarshnagrikar14/Rakshak2.0">
