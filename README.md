@@ -18,6 +18,12 @@
   <code><a href = "/">![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=ReactJS)</a></code>
   <code><a href = "/">![Django](https://img.shields.io/badge/-Django-000?&logo=Django)</a></code>
   <code><a href = "/">![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)</a></code>
+
+- <code><a href = "/">![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)</a></code>
+  <code><a href = "/">![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000?&logo=PHPMyAdmin)</a></code>
+  <code><a href = "/">![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=ReactJS)</a></code>
+  <code><a href = "/">![Django](https://img.shields.io/badge/-Django-000?&logo=Django)</a></code>
+  <code><a href = "/">![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)</a></code>
   
 ## Hackathons
 <a href="https://github.com/adarshnagrikar14/Rakshak2.0">
