@@ -34,7 +34,7 @@
   
 ## Hackathons
 <div>
-  <img src="readme-contents/sih2.png" width="20%" height="20px"/>
+  <img src="readme-contents/sih2.png" width="20%" height="200px"/>
   <a href="https://github.com/adarshnagrikar14/Rakshak2.0">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshnagrikar14&repo=Rakshak2.0&theme=dracula&show=about" />
   </a>
