@@ -49,6 +49,7 @@
 
 ## Social Handles
 [![GitHub](https://img.shields.io/github/followers/adarshnagrikar14?style=social)](https://github.com/adarshnagrikar14)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/adarshnagrikar)
 
 ## Visitor's Brief
 [![Visitor's Count](https://komarev.com/ghpvc/?username=adarshnagrikar14&color=brightgreen)](https://github.com/adarshnagrikar14)
