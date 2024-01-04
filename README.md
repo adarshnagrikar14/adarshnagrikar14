@@ -47,5 +47,8 @@
 ## Github Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=adarshnagrikar14&row=1&column=6&theme=dracula&margin-w=25&margin-h=5)](https://github.com/adarshnagrikar14)
 
+## Social Handles
+[![GitHub](https://img.shields.io/github/followers/adrashnagrikar14?style=social)](https://github.com/adarshnagrikar14)
+
 ## Visitor's Brief
 [![Visitor's Count](https://komarev.com/ghpvc/?username=adarshnagrikar14&color=brightgreen)](https://github.com/adarshnagrikar14)
