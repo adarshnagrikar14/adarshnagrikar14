@@ -10,7 +10,7 @@
   <code><a href = "https://kotlinlang.org/">![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)</a></code>
   <code><a href = "https://kotlinlang.org/">![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)</a></code>
   <code><a href = "https://kotlinlang.org/">![JS](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)</a></code>
-  <code><a href = "https://kotlinlang.org/">![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)</a></code>
+  <code><a href = "https://kotlinlang.org/">![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a></code>
   <code><a href = "https://kotlinlang.org/">![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)</a></code>
   <code><a href = "https://kotlinlang.org/">![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)</a></code>
 
