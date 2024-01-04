@@ -3,8 +3,8 @@
 <img src="readme-contents/github-header-image2.png" width="100%"/>
 
 ## Languages, Frameworks & Technologies
-<code><a href = "https://kotlinlang.org/">![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</a></code>
-<code><a href = "https://kotlinlang.org/">![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)</a></code>
+- <code><a href = "https://kotlinlang.org/">![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</a></code>
+- <code><a href = "https://kotlinlang.org/">![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)</a></code>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
