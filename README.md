@@ -28,7 +28,7 @@
   <code><a href = "/">![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)</a></code>
   <code><a href = "/">![Blockchain](https://img.shields.io/badge/-Blockchain-000?&logo=Blockchain)</a></code>
   <code><a href = "/">![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)</a></code>
-  <code><a href = "/">![VSCode](https://img.shields.io/badge/-VS%20Code-000?&logo=VS%20Code)</a></code>
+  <code><a href = "/">![VSCode](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio)</a></code>
   <code><a href = "/">![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=Android%20Studio)</a></code>
   
 ## Hackathons
