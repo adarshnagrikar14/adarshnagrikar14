@@ -1,4 +1,4 @@
-<h4> Hey there! <img src="readme-contents/wave.gif" width="30px"></h4>
+<img src="readme-contents/wave.gif" width="30px">
 
 <img src="readme-contents/github-header-image2.png" width="100%"/>
 
