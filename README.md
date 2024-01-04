@@ -4,7 +4,7 @@
 
 ## Languages, Frameworks & Technologies
 
-- <code><a href = "/">![Java](https://img.shields.io/badge/-Java-000?&logo=Java)</a></code>
+- <code><a href = "/">![Java](https://img.shields.io/badge/-Java-000?&logo=java)</a></code>
   <code><a href = "/">![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)</a></code>
   <code><a href = "/">![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</a></code>
   <code><a href = "/">![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)</a></code>
