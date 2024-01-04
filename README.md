@@ -2,9 +2,6 @@
 
 <img src="readme-contents/github-header-image2.png" width="100%"/>
 
-## Github Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=adarshnagrikar14&row=1&column=4&margin-w=15&margin-h=15)](https://github.com/adarshnagrikar14)
-
 ## Languages
 <code><a href = "https://kotlinlang.org/">![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</a></code>
 <code><a href = "https://kotlinlang.org/">![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)</a></code>
@@ -30,6 +27,9 @@
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnagrikar14&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=1" width="30%">
+
+## Github Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=adarshnagrikar14&row=1&column=4&margin-w=15&margin-h=15)](https://github.com/adarshnagrikar14)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshnagrikar14&theme=dracula&count_private=true)
 
