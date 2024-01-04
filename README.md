@@ -23,7 +23,7 @@
 - <code><a href = "/">![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)</a></code>
   <code><a href = "/">![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000?&logo=PHPMyAdmin)</a></code>
   <code><a href = "/">![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)</a></code>
-  <code><a href = "/">![Node JS](https://img.shields.io/badge/-Node%20JS-000?&logo=Node%20JS)</a></code>
+  <code><a href = "/">![Node JS](https://img.shields.io/badge/-Node%20JS-000?&logo=Node)</a></code>
   <code><a href = "/">![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)</a></code>
   <code><a href = "/">![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)</a></code>
   <code><a href = "/">![Blockchain](https://img.shields.io/badge/-Blockchain-000?&logo=Blockchain)</a></code>
