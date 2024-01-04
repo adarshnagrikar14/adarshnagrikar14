@@ -30,7 +30,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshnagrikar14&theme=dracula&count_private=true)
 
 ## Github Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=adarshnagrikar14&row=1&column=4&margin-w=15&margin-h=15)](https://github.com/adarshnagrikar14)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adarshnagrikar14&row=2&column=6&margin-w=15&margin-h=15)](https://github.com/adarshnagrikar14)
 
 ## Visitor's Brief
 [![Visitor's Count](https://komarev.com/ghpvc/?username=adarshnagrikar14&color=brightgreen)](https://github.com/adarshnagrikar14)
