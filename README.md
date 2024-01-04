@@ -16,9 +16,9 @@
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnagrikar14&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=1" width="35%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnagrikar14&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=1" width="30%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshnagrikar14&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshnagrikar14&theme=dracula&count_private=true)
 
 ## Visitor's Brief
 [![Visitor's Count](https://komarev.com/ghpvc/?username=adarshnagrikar14&color=brightgreen)](https://github.com/adarshnagrikar14)
