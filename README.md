@@ -25,7 +25,7 @@
 
 ## Hackathons
 <a href="https://github.com/adarshnagrikar14/Rakshak2.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshnagrikar14&repo=Rakshak2.0&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshnagrikar14&repo=Rakshak2.0&theme=dracula&show=about" />
 </a>
 
 ## Github Stats
