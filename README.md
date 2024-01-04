@@ -24,8 +24,8 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 ## Hackathons
-<a href="[https://github.com/adarshnagrikar14/TheDudeThatCode](https://github.com/adarshnagrikar14/Rakshak2.0)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshnagrikar14&repo=Rakshak2.0&theme=darcula" />
+<a href="https://github.com/adarshnagrikar14/Rakshak2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshnagrikar14&repo=Rakshak2.0&theme=dark" />
 </a>
 
 ## Github Stats
