@@ -4,7 +4,7 @@
 
 ## Languages, Frameworks & Technologies
 
-- <code><a href = "/">![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)</a></code>
+- <code><a href = "/">![Java](https://img.shields.io/badge/-Java-000?&logo=Java)</a></code>
   <code><a href = "/">![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)</a></code>
   <code><a href = "/">![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</a></code>
   <code><a href = "/">![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)</a></code>
@@ -12,15 +12,13 @@
   <code><a href = "/">![JS](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)</a></code>
   <code><a href = "/">![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a></code>
   <code><a href = "/">![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)</a></code>
-- <code><a href = "/">![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)</a></code>
-  <code><a href = "/">![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)</a></code>
-  <code><a href = "/">![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</a></code>
-  <code><a href = "/">![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)</a></code>
-  <code><a href = "/">![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)</a></code>
-  <code><a href = "/">![JS](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)</a></code>
-  <code><a href = "/">![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a></code>
-  <code><a href = "/">![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)</a></code>
-
+  
+- <code><a href = "/">![Android](https://img.shields.io/badge/-Android-000?&logo=Android)</a></code>
+  <code><a href = "/">![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)</a></code>
+  <code><a href = "/">![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=ReactJS)</a></code>
+  <code><a href = "/">![Django](https://img.shields.io/badge/-Django-000?&logo=Django)</a></code>
+  <code><a href = "/">![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)</a></code>
+  
 ## Hackathons
 <a href="https://github.com/adarshnagrikar14/Rakshak2.0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshnagrikar14&repo=Rakshak2.0&theme=dracula&show=about" />
