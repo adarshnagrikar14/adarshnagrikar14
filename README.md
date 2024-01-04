@@ -33,12 +33,8 @@
   <code><a href = "/">![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=Android%20Studio)</a></code>
   
 ## Hackathons
-<div>
-  <img src="readme-contents/sih2.png" width="20%" style="margin-top: 50px; margin-right: 30px;"/>
-  <a href="https://github.com/adarshnagrikar14/Rakshak2.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshnagrikar14&repo=Rakshak2.0&theme=dracula&show=about" />
-  </a>
-</div>
+[![SIH Image](readme-contents/sih2.png)](https://github.com/adarshnagrikar14/Rakshak2.0)  
+[![Rakshak2.0](https://github-readme-stats.vercel.app/api/pin/?username=adarshnagrikar14&repo=Rakshak2.0&theme=dracula&show=about)](https://github.com/adarshnagrikar14/Rakshak2.0)
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnagrikar14&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=1" width="30%">
