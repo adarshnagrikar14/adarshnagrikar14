@@ -12,8 +12,6 @@
   <code><a href = "/">![JS](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)</a></code>
   <code><a href = "/">![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a></code>
   <code><a href = "/">![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)</a></code>
-<br>
-<br>
 - <code><a href = "/">![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)</a></code>
   <code><a href = "/">![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)</a></code>
   <code><a href = "/">![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</a></code>
