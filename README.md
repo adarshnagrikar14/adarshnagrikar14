@@ -34,14 +34,14 @@
   
 ## Hackathons
 <div>
-  <img src="readme-contents/sih2.png" width="20%"/>
+  <img src="readme-contents/sih2.png" width="20%" height="20px"/>
   <a href="https://github.com/adarshnagrikar14/Rakshak2.0">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adarshnagrikar14&repo=Rakshak2.0&theme=dracula&show=about" />
   </a>
 </div>
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnagrikar14&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=1" width="30%" height="20px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnagrikar14&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=1" width="30%">
 
 ## Github Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshnagrikar14&theme=dracula&count_private=true)
