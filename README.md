@@ -16,7 +16,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ##
-<code><a href = "https://kotlinlang.org/">Kotlin</a></code>
+<code><a href = "https://kotlinlang.org/">![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</a></code>
 
 ## Frameworks and Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
