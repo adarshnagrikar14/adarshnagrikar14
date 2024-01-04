@@ -9,6 +9,7 @@
   <code><a href = "/">![Python](https://img.shields.io/badge/-Python-000?&logo=Python)</a></code>
   <code><a href = "/">![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)</a></code>
   <code><a href = "/">![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)</a></code>
+  <code><a href = "/">![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)</a></code>
   <code><a href = "/">![JS](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)</a></code>
   <code><a href = "/">![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a></code>
   <code><a href = "/">![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)</a></code>
@@ -25,8 +26,8 @@
   <code><a href = "/">![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=NodeJS)</a></code>
   <code><a href = "/">![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)</a></code>
   <code><a href = "/">![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)</a></code>
-  <code><a href = "/">![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)</a></code>
-  <code><a href = "/">![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)</a></code>
+  <code><a href = "/">![Blockchain](https://img.shields.io/badge/-Blockchain-000?&logo=Blockchain)</a></code>
+  <code><a href = "/">![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)</a></code>
   
 ## Hackathons
 <a href="https://github.com/adarshnagrikar14/Rakshak2.0">
