@@ -33,9 +33,9 @@
   <code><a href = "/">![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=Android%20Studio)</a></code>
   
 ## Hackathons
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center;">
-  <img src="readme-contents/sih2.png" width="20%" style="margin-bottom: 30px;margin-right: 40px"/>
-  <a href="https://github.com/adarshnagrikar14/Rakshak2.0">
+<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
+  <img src="readme-contents/sih2.png" width="20%" style="margin-right: 30px;"/>
+  <a href="https://github.com/adarshnagrikar14/Rakshak2.0" style="margin-left: 30px;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshnagrikar14&repo=Rakshak2.0&theme=dracula&show=about" />
   </a>
 </div>
