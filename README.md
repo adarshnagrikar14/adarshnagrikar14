@@ -42,7 +42,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshnagrikar14&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=1" width="30%">
 
 ## Github Streaks
-[![GitHub's Streak](https://streak-stats.demolab.com/?user=adarshnagrikar14&theme=dracula)](https://streak-stats.demolab.com/?user=adarshnagrikar14&theme=dracula)](https://nirzak-streak-stats.vercel.app?user=adarshnagrikar14&theme=dracula)
+[![GitHub's Streak](https://streak-stats.demolab.com/?user=adarshnagrikar14&theme=dracula)](https://streak-stats.demolab.com/?user=adarshnagrikar14&theme=dracula)]
 
 <!--Optional-->
 <!--https://github-readme-streak-stats.herokuapp.com/?user=adarshnagrikar14&theme=dracula&date_format=M%20j%5B%2C%20Y%5D -->
